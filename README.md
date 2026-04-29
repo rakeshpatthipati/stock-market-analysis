@@ -2,8 +2,7 @@
 
 A complete data science project analyzing AAPL, Tesla and Infosys stock performance for 2024.
 
-**Author:** Rakesh  
-**Date:** April 2026  
+**Author:** Rakesh    
 **Tools:** Python, JupyterLab, yfinance, pandas, matplotlib
 
 ## What This Project Does
